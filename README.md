@@ -29,7 +29,7 @@ This is a profile card component that I built shortly after learning Html and Cs
 
 ### Screenshot
 
-![A screenshot of the page](images/screenshot.PNG)
+![A screenshot of the page](dist/images/screenshot.PNG)
 
 
 ### Links
